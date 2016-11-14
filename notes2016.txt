@@ -48,4 +48,7 @@ https://www.facebook.com/bigdreamtinyhome
 
 http://bigdreamtinyhome.com/
 
+#LaTeX packages
+ArsClassica package: classicthesis + Beautiful Tufte Book
+
 
